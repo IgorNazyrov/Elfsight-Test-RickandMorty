@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Elfsight-Test-RickandMorty/static/css/main.869ee58a.css",
-    "main.js": "/Elfsight-Test-RickandMorty/static/js/main.ab705eb7.js",
+    "main.js": "/Elfsight-Test-RickandMorty/static/js/main.d39e576a.js",
     "static/media/green-portal.png": "/Elfsight-Test-RickandMorty/static/media/green-portal.a218ca229093de6f08d2.png",
     "static/media/widget-logo.png": "/Elfsight-Test-RickandMorty/static/media/widget-logo.42c8df0b92603ef2e2e2.png",
     "static/media/male.svg": "/Elfsight-Test-RickandMorty/static/media/male.42d01c2c5e1d7025a594642a761f1939.svg",
@@ -9,10 +9,10 @@
     "static/media/genderless.svg": "/Elfsight-Test-RickandMorty/static/media/genderless.dec799ed2f3cfbb46522c185f9dbb030.svg",
     "static/media/female.svg": "/Elfsight-Test-RickandMorty/static/media/female.02f202d68bdd63c12690625cf6aec3fd.svg",
     "main.869ee58a.css.map": "/Elfsight-Test-RickandMorty/static/css/main.869ee58a.css.map",
-    "main.ab705eb7.js.map": "/Elfsight-Test-RickandMorty/static/js/main.ab705eb7.js.map"
+    "main.d39e576a.js.map": "/Elfsight-Test-RickandMorty/static/js/main.d39e576a.js.map"
   },
   "entrypoints": [
     "static/css/main.869ee58a.css",
-    "static/js/main.ab705eb7.js"
+    "static/js/main.d39e576a.js"
   ]
 }
