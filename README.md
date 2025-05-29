@@ -1,5 +1,7 @@
 # Elfsight Test Task (Rick and Morty API)
 
+## Демо: [https://igornazyrov.github.io/Elfsight-Test-RickandMorty/](https://igornazyrov.github.io/Elfsight-Test-RickandMorty/)
+
 ## Исправленные баги
 
 ### Пагинация
