@@ -22,7 +22,7 @@
 1.  Клонируй репозиторий:
 
     ```bash
-    git clone https://github.com/IgorNazyrov/WeatherAppDebug
+    git clone https://github.com/IgorNazyrov/Elfsight-Test-RickandMorty
     ```
 2.  Скачать зависимости:
 
@@ -34,4 +34,3 @@
 
     ```bash
     npm run dev
-    ``
